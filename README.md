@@ -1,5 +1,11 @@
 # IrisGate
-Iris gate controlled by drone RSSI
+Iris gate controlled by RSSI
+
+
+
+
+## You can see a video of it working here: ##
+## https://www.youtube.com/watch?v=XlLPElB3BOo ##
 
 
 ## Materials you need
@@ -29,11 +35,6 @@ Example of an iris gate: https://makezine.com/projects/mechanical-iris/
 6. Solder the RSSI pin in your VTX receiver to your Arduino A3
 7. And finally, solder the servo to Arduino 5v, ground and solder the signal cable to Arduino D5
 
-
-
-
-## You can see a video of it working here: ##
-## https://www.youtube.com/watch?v=XlLPElB3BOo ##
 
 
 ## How to upload the code
