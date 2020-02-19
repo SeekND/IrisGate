@@ -15,6 +15,7 @@ Recommend above 9g unless your iris gate is super lubbed ;)
 
 > 1x Iris Gate
 Make sure the mechanical part of the iris is working effortlesslly before installing the servo and arduino
+Example of an iris gate: https://makezine.com/projects/mechanical-iris/
 
 
 
