@@ -56,3 +56,19 @@ Example of an iris gate: https://makezine.com/projects/mechanical-iris/
 
 # Congratulations!
 You are now the proud owner of a IRIS GATE!
+
+
+# CONTACTS
+
+- https://www.youtube.com/SeekNDFPV
+- https://www.facebook.com/SeekNDFPV/
+
+
+# SUPPORT
+
+If you'd like to help support the project please contribute with ideas.
+
+If you would like to contribute in another way, I would be very grateful as well.
+http://paypal.me/SeekND
+
+Thank you for your support!!
